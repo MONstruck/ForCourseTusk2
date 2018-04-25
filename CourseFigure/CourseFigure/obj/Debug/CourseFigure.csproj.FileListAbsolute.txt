@@ -1,0 +1,15 @@
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\bin\Debug\CourseFigure.exe.config
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\bin\Debug\CourseFigure.exe
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\bin\Debug\CourseFigure.pdb
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure.csprojResolveAssemblyReference.cache
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\MainWindow.g.cs
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\App.g.cs
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure_MarkupCompile.cache
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure_MarkupCompile.lref
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\MainWindow.baml
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure.g.resources
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure.Properties.Resources.resources
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure.csproj.GenerateResource.cache
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure.csproj.CoreCompileInputs.cache
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure.exe
+C:\Users\Volodya\source\repos\CourseFigure\CourseFigure\obj\Debug\CourseFigure.pdb
