@@ -1,0 +1,17 @@
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\bin\Debug\MiniFileMeneger.exe.config
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\bin\Debug\MiniFileMeneger.exe
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\bin\Debug\MiniFileMeneger.pdb
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger.csprojResolveAssemblyReference.cache
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MainWindow.g.cs
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\App.g.cs
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger_MarkupCompile.cache
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger_MarkupCompile.lref
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MainWindow.baml
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger.g.resources
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger.Properties.Resources.resources
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger.csproj.GenerateResource.cache
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger.csproj.CoreCompileInputs.cache
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger.exe
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\MiniFileMeneger.pdb
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\ChoseFolder.g.cs
+c:\users\volodya\source\repos\MiniFileMeneger\MiniFileMeneger\obj\Debug\ChoseFolder.baml
